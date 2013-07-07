@@ -14,6 +14,8 @@ Training Video][3]. In particular, the stylised, cartoony look of the first part
 of the video in which a silhouetted character jumps through a portal and
 emerges from the other side. This is the original video:
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/gr_9Fw_gC4I" frameborder="0" allowfullscreen></iframe>
+
 This video blew my mind when it was first released. Portal (which was
 developed from [Narbacular Drop][4]) introduced a fun twist on the 3D platform
 genre.
