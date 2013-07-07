@@ -15,7 +15,7 @@
 силуэт персонаж прыгает через портал и возникает на другой его стороне. Вот
 оригинальное видео:
 
-<iframe width="100%" height="315" src="//www.youtube.com/embed/gr_9Fw_gC4I" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/gr_9Fw_gC4I" frameborder="0" allowfullscreen></iframe>
 
 Это видео сорвало мне крышу, когда я впервые его увидел. Portal (который был
 разработан основываясь на игре [Narbacular Drop][4]) это забавное отклонение
