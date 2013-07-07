@@ -747,7 +747,7 @@ webkit), и Chrome отображает ее настолько хорошо, н
 Я буду рад, если вы поделитесь своими мыслями по поводу этой статьи. Со мной
 можно связаться с помощью [адреса электронной почты][18] или [Twitter][19].
 
-[1]: http://hop.ie/portal/
+[1]: demo/index.html
 [2]: https://github.com/donovanh/portal
 [3]: http://www.youtube.com/watch?v=gr_9Fw_gC4I
 [4]: http://en.wikipedia.org/wiki/Narbacular_Drop
@@ -758,11 +758,11 @@ webkit), и Chrome отображает ее настолько хорошо, н
 [9]: http://docs.webplatform.org/wiki/css/properties/perspective-origin
 [10]: http://docs.webplatform.org/wiki/css/properties/transform-origin
 [11]: http://docs.webplatform.org/wiki/css/functions/radial-gradient
-[12]: http://hop.ie/portal/
+[12]: demo/index.html
 [13]: http://docs.webplatform.org/wiki/css/atrules/@keyframes
 [14]: http://docs.webplatform.org/wiki/css/properties/animation
-[15]: http://hop.ie/portal/
-[16]: http://hop.ie/portal
+[15]: demo/index.html
+[16]: demo/index.html
 [17]: https://github.com/donovanh/portal
 [18]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=d@hop.ie
 [19]: http://twitter.com/donovanh
